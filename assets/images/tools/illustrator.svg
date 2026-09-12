@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.92" height="44.724" viewBox="0 0 45.92 44.724">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffaa2b;
+      }
+
+      .cls-2 {
+        fill: #3b3323;
+      }
+
+      .cls-3 {
+        opacity: 0.302;
+      }
+    </style>
+  </defs>
+  <g id="Group_245" data-name="Group 245" transform="translate(0 0)">
+    <path id="Frame_1_" class="cls-1" d="M7,12h45.92V56.722H7Z" transform="translate(-6.998 -11.998)"/>
+    <path id="Background_1_" class="cls-2" d="M45.008,51.016H83.841V88.559H45.008Z" transform="translate(-41.51 -47.426)"/>
+    <path id="Shadow2_1_" class="cls-3" d="M159.705,148c.092.061-2.577,2.853-2.577,2.853l3.44,2.711L157.4,155.91l-7.914-7.638-3.773.92-2.393,7.638L139,167.229l13.251,9.386h16.932V155.634S159.614,147.935,159.705,148Z" transform="translate(-126.853 -135.481)"/>
+    <path id="Shadow_2_" class="cls-3" d="M45.008,51H83.841v1.288H45.008Z" transform="translate(-41.51 -47.412)"/>
+    <g id="Ai" transform="translate(12.192 12.341)">
+      <path id="Path_10988" data-name="Path 10988" class="cls-1" d="M144.691,164.577l-1.631,5.37h-3.57L145.562,151h4.414l6.157,18.948h-3.711l-1.715-5.37h-6.016Zm5.426-2.614-1.49-4.667c-.365-1.153-.675-2.446-.956-3.542h-.056c-.281,1.1-.562,2.418-.9,3.542l-1.462,4.667Z" transform="translate(-139.49 -150.549)"/>
+      <path id="Path_10989" data-name="Path 10989" class="cls-1" d="M337.051,147.994a1.941,1.941,0,1,1-1.94-1.884A1.833,1.833,0,0,1,337.051,147.994Zm-3.683,17.514V151.817h3.486v13.691Z" transform="translate(-315.348 -146.11)"/>
+    </g>
+  </g>
+</svg>
